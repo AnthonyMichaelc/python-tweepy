@@ -1,6 +1,6 @@
-### Searching tweets
+# Searching tweets
 
-# using
+### using:
 - tweepy
 
 adding more..
